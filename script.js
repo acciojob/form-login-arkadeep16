@@ -1,4 +1,5 @@
+const form = document.getElementById("form1");
 function getFormvalue() {
-    //Write your code here
+    Alert("form.fname.value");
 
 }
